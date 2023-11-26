@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Menu
+title: About
 ---
 This should be the menu
